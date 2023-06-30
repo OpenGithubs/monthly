@@ -1,5 +1,6 @@
 # Github开源项目精选月刊
 
+
 ## 社区介绍:
 
 [OpenGithub社区](http://open.itc.cn/): 挖掘Github优质开源项目,帮助用户发现有趣、实用、流行、好玩的开源项目.
