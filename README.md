@@ -10,9 +10,10 @@
 - 📈趋势榜:Github每日/周/月实时榜单
 - 📚期刊:精选最新开源项目,提供周刊/月刊/专栏等期刊文章
 
-## Star History
+**关注我们:**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=OpenGithubs/monthly&type=Date)](https://star-history.com/#OpenGithubs/monthly&Date)
+<img class="avatar-img " style="width:400px;height:220px;" src="https://github.com/OpenGithubs/OpenGithubs/blob/main/contact.png" alt="">
+
 
 ## 期刊精选
 
@@ -75,6 +76,10 @@
 - 月刊汇总:[Github精选开源项目月刊,每月30号更新](https://github.com/OpenGithubs/monthly)
 - 专栏汇总:[Github精选开源项目专栏,不定期更新](https://github.com/OpenGithubs/selectedColumn)
 - 2023年汇总:[2023年精选项目汇总](https://github.com/OpenGithubs/Summary2023)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=OpenGithubs/monthly&type=Date)](https://star-history.com/#OpenGithubs/monthly&Date)
 
 
 > 更多好的开源项目请关注我们狐动社公众号/知乎号
