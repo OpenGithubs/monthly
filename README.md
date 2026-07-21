@@ -95,12 +95,5 @@
 - 专栏汇总:[Github精选开源项目专栏,不定期更新](https://github.com/OpenGithubs/selectedColumn)
 - 2023年汇总:[2023年精选项目汇总](https://github.com/OpenGithubs/Summary2023)
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=OpenGithubs/monthly&type=Date)](https://star-history.com/#OpenGithubs/monthly&Date)
-
-
-> 更多好的开源项目请关注我们狐动社公众号/知乎号
-
-<image src="https://github.com/OpenGithubs/OpenGithubs/blob/main/contact.png" style="width:50%">
 
