@@ -25,7 +25,7 @@
 | **2026.11月** | [第 44 期]|
 | **2026.10月** | [第 43 期] |
 | **2026.9月**  | [第 42 期]|
-| **2026.8月**  | [第 41 期]((https://github.com/OpenGithubs/github-monthly-rank/blob/main/2026/09.md) |
+| **2026.8月**  | [第 41 期](https://github.com/OpenGithubs/github-monthly-rank/blob/main/2026/09.md) |
 | **2026.7月**  | [第 40 期](https://github.com/OpenGithubs/github-monthly-rank/blob/main/2026/08.md) |
 | **2026.6月**  | [第 39 期](https://github.com/OpenGithubs/github-monthly-rank/blob/main/2026/07.md) |
 | **2026.5月**  | [第 38 期](https://github.com/OpenGithubs/github-monthly-rank/blob/main/2026/06.md)|
